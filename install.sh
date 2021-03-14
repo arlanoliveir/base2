@@ -3,10 +3,10 @@ pkg upgrade
 cd
 git clone https://github.com/arlanoliveir/base2.git
 clear
-cd ./bot4.0-
+cd base2
 bash install.sh
 cd
-cd ./bot4.0-
+cd base2
 npm start
 
 echo "[*] obrigado por utilizar o bot \"arlanbot\" arlan agradece"
